@@ -168,3 +168,9 @@ main {
   margin-top: 20px;
 }
 
+button{
+  padding: 10px 20px;
+  background-color: black;
+  color: #fff;
+  cursor: pointer;
+}
