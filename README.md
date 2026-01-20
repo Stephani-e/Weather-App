@@ -1,4 +1,4 @@
-# 🌦React Weather App with Dynamic Backgrounds
+# React Weather App with Dynamic Backgrounds
 
 A simple and visually responsive weather forecast application using the OpenWeatherMap API, built with React. It supports temperature unit conversion, handles errors, shows dynamic background images based on weather conditions, and remembers your last searched city.
 
@@ -51,6 +51,7 @@ The background changes depending on:
    npm install
 3. Start the development server
    ```bash
+   npm start
 
 
 
